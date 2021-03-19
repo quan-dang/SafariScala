@@ -1,0 +1,5 @@
+package many
+
+object UseArrays {
+
+}
